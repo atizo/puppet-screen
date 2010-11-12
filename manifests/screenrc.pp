@@ -1,5 +1,5 @@
 define screen::screenrc(
-  $source = 'normal',
+  $source = 'default',
   $target = '/root/.screenrc',
   $owner  = 'root',
   $group  = '0'
